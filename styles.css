@@ -38,7 +38,6 @@ body {
 .content {
   padding-top: 12px;
   text-align: left;
-  gap: 12px;
 }
 
 .category {
@@ -55,7 +54,6 @@ body {
   font-family: Figtree;
   font-weight: 800;
   font-size: 14px;
-  line-height: 150%;
 }
 
 .publishDate {
@@ -64,7 +62,6 @@ body {
   font-family: Figtree;
   font-weight: 500;
   font-size: 14px;
-  line-height: 150%;
 }
 
 .title {
